@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ChaterBot</string>
+    <string name="bot">bot></string>
+    <string name="conversacion">Conversación</string>
+    <string name="enviar">Enviar</string>
+    <string name="exception">exception></string>
+    <string name="mensaje">Mensaje</string>
+    <string name="messageConnected">bot> Connected.</string>
+    <string name="messageException">Error> Bot can not be created.</string>
+    <string name="you">you></string>
+    <string name="historial">Abrir el historial</string>
+    <string name="emptyText">Todavía no existen conversaciones en el historial.</string>
+</resources>
